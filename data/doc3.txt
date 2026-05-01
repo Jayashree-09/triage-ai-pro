@@ -1,0 +1,1 @@
+If a user encounters errors while coding on HackerRank, advise them to check problem constraints, review syntax, and ensure correct input format.

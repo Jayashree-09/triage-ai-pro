@@ -1,0 +1,54 @@
+USER: login problem
+BOT: Based on documentation:
+If a user has login issues, advise them to reset their password using the forgot password option.
+
+USER: unauthorized transaction on my card
+BOT: This issue requires further review. Escalating to human support.
+
+USER: I am getting an error while coding
+BOT: No reliable answer found in documentation. Escalating.
+
+USER: forgot my password
+BOT: Based on documentation:
+If a user has login issues, advise them to reset their password using the forgot password option.
+
+USER: unauthorized transaction on my card
+BOT: This issue requires further review. Escalating to human support.
+
+USER: I am getting an error while coding
+BOT: No reliable answer found in documentation. Escalating.
+
+USER: notepad data/doc3.txt
+BOT: No reliable answer found in documentation. Escalating.
+
+USER: I am getting an error while coding
+BOT: Based on documentation:
+If a user encounters errors while coding on HackerRank, advise them to check problem constraints, review syntax, and ensure correct input format.
+
+USER: I was charged twice
+BOT: This issue requires further review. Escalating to human support.
+
+USER: I was charged twice
+BOT: No reliable answer found in documentation. Escalating.
+
+USER: I was charged twice
+BOT: Based on documentation:
+If a user reports being charged twice, double payment, or incorrect billing, advise them to check their billing history and request a refund through support.
+
+USER: I was charged twice
+BOT: ✅ I found a relevant solution from our knowledge base:
+If a user reports being charged twice, double payment, or incorrect billing, advise them to check their billing history and request a refund through support.
+
+Confidence: 0.32
+
+USER: unauthorized transaction
+BOT: ⚠️ Escalating to human support.
+Reason: High-risk keywords detected
+Confidence: 0.00
+
+USER: coding error
+BOT: ✅ I found a relevant solution from our knowledge base:
+If a user encounters errors while coding on HackerRank, advise them to check problem constraints, review syntax, and ensure correct input format.
+
+Confidence: 0.24
+

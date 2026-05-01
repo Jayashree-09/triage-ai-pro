@@ -1,0 +1,12 @@
+domain,intent,action,confidence,response
+general,billing,respond,0.32,"✅ I found a relevant solution from our knowledge base:
+If a user reports being charged twice, double payment, or incorrect billing, advise them to check their billing history and request a refund through support.
+
+Confidence: 0.32"
+finance,fraud,escalate,0.00,"⚠️ Escalating to human support.
+Reason: High-risk keywords detected
+Confidence: 0.00"
+technical,technical,respond,0.24,"✅ I found a relevant solution from our knowledge base:
+If a user encounters errors while coding on HackerRank, advise them to check problem constraints, review syntax, and ensure correct input format.
+
+Confidence: 0.24"
